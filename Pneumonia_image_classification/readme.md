@@ -46,34 +46,4 @@ Convolutional Neural Networks (CNNs) excel at capturing spatial features (such a
 ## License
 
 This project is for educational and research purposes.
-
-
-
-
-
-
-Implement and test data augmentation techniques.
-
-
-
-Define and train a CNN model with Cross-Entropy or BCE Loss.
-
-
-
-Evaluate performance using metrics like accuracy, precision, recall, and AUC.
-
-
-
-Tune hyperparameters (e.g., learning rate, batch size).
-
-Acknowledgments
-
-
-
-
-
-MedMNIST for providing the PneumoniaMNIST dataset.
-
-
-
-PyTorch for the deep learning framework.
+ 
